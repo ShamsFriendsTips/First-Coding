@@ -1,4 +1,4 @@
-include <iostream>// header file for imput  and output stream
+#include <iostream>// header file for imput  and output stream
 
 using namespace std;// adding of namespace (standard namespace of keyword)
 
